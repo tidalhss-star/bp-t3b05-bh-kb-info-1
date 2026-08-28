@@ -16,11 +16,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://banghwa-song-review.mapo-room-guide.xyz/posts/field_note-002-1t01qp6.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://banghwa-song-review.mapo-room-guide.xyz/posts/gemini-coverage-20260719-0222.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -52,11 +47,6 @@
   </url>
   <url>
     <loc>https://banghwa-song-review.mapo-room-guide.xyz/posts/gemini-coverage-20260721-0228.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://banghwa-song-review.mapo-room-guide.xyz/posts/guide-001-pip51w.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
