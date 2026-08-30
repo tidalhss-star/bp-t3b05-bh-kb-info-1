@@ -65,4 +65,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://banghwa-song-review.mapo-room-guide.xyz/posts/field_note-002-1t01qp6.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://banghwa-song-review.mapo-room-guide.xyz/posts/guide-001-pip51w.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
